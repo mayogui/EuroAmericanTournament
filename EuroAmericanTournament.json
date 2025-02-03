@@ -1,6 +1,6 @@
 {
 	"Name": "EuroAmerican Tournament",
-	"Version": 1737741157,
+	"Version": 1738560644,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each perk is to be used 'ONE TIME ONLY'\nNote that each killer has its own balance, check the individual balance channels for each killer.\nThese prohibitions are in addition to the individual balance of each killer.\nPlease note that there may be exceptions to perks that are specifically listed on individual channels.\nIMPORTANT:\nThey must review the killer's notes to know what offerings and items to bring.\n",
 	"Tiers": [
@@ -163,7 +163,7 @@
 	"KillerOverride": [
 		{
 			"Name": "The Trapper",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -244,18 +244,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"32"
@@ -340,18 +340,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "BANNED ADDONS COMBINATION:\nCombined:\n- The Thompsons' Mix + Tuned Carburetor\n\n\nOFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"6"
@@ -437,18 +437,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Annotated Blueprint\n+ Vigo's Shroud\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Common or Uncommon Medkit + Rare Add-Ons or lower.\n+ 1 x Common Toolbox + Common Add-Ons\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"43"
@@ -542,17 +542,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -637,18 +638,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Hag",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Firecracker\n\n\n#The 3 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -726,18 +727,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -815,18 +816,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -903,18 +904,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -987,18 +988,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Nightmare",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint \n+ Shroud of Binding\n+ Vigo's Shroud",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -1078,18 +1079,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Pig",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -1171,18 +1172,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Clown",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1255,18 +1256,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Annotated Blueprint\n+ Vigo's Shroud\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Common Medkit + Common Add-Ons\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1356,17 +1357,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Legion",
-			"KillerNotes": "ADDONS BAN:\nCombined:\n- Mural Sketch + Never-Sleep pills\n\nOFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1445,18 +1447,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Plague",
-			"KillerNotes": "ADDONS BAN:\nCombined:\n- Ashen Apple + Blessed Apple\n- Prayer Tablet Fragment + Haematite Seal\n- Prayer Tablet Fragment + Limestone Seal\n\nOFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Common Medkit + Common Add-Ons\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The remaining survivor is not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"4"
@@ -1528,18 +1530,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -1626,12 +1628,13 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
@@ -1705,18 +1708,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -1790,18 +1793,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -1867,18 +1870,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Executioner",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1942,18 +1945,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Vigo's Shroud\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Common or Uncommon Medkit + Rare Add-Ons or lower.(Last Update)\n+ 1 x Common Toolbox + Common Add-Ons\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"6"
@@ -2042,12 +2045,13 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
@@ -2130,18 +2134,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Trickster",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -2214,18 +2218,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Nemesis",
-			"KillerNotes": "ADDONS BAN:\nCombined:\n- Iridescent Umbrella Badge + Jill's Sandwich\n\nOFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n\n#The 3 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"5"
@@ -2295,18 +2299,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -2376,18 +2380,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Artist",
-			"KillerNotes": "OFFERING KILLER:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING SURVIVOR:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Firecracker",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"5"
@@ -2443,18 +2447,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Onryo",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Firecracker\n\n\n#The 3 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"32"
@@ -2532,17 +2536,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -2624,17 +2629,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-ons \n+ 1 x Firecracker \n\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -2701,18 +2707,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Knight",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Firecracker\n\n#The 3 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -2777,18 +2783,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Skull Merchant",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Shroud of Binding\n+ Vigo's Shroud\n\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -2861,12 +2867,13 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
@@ -2942,18 +2949,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Xenomorph",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -3031,18 +3038,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Good Guy",
-			"KillerNotes": "OFFERING:\nRequired:\n+ None / Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Shroud of Binding\n+ Vigo's Shroud\n\n\nALLOWED ITEMS:\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The 2 remaining survivors are not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"32"
@@ -3121,17 +3128,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "OFFERING:\nRequired:\n+ Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Common Medkit + Common Add-Ons\n+ 1 x Rare Flashlight + Common Add-Ons\n+ 1 x Firecracker\n\n#The remaining survivor is not allowed to bring any items into the match.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -3212,18 +3220,18 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "OFFERING:\nRequired:\n-Bloodied Blueprint / Torn Blueprint\n\nOFFERING:\nRequired:\n+ Annotated Blueprint\n+ Shroud of Binding\n+ Vigo's Shroud\n\nALLOWED ITEMS:\n+ 1 x Firecracker\n+ 1 x Rare Flashlight + Common Add-Ons\n\n#The 3 remaining survivors are not allowed to bring any items into the match.\n",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -3291,13 +3299,13 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5,
 				6
 			],
 			"KillerOfferings": [
-				0,
-				1
+				5
 			]
 		},
 		{
