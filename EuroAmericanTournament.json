@@ -1,6 +1,6 @@
 {
 	"Name": "EuroAmerican Tournament",
-	"Version": 1738560644,
+	"Version": 1738563966,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each perk is to be used 'ONE TIME ONLY'\nNote that each killer has its own balance, check the individual balance channels for each killer.\nThese prohibitions are in addition to the individual balance of each killer.\nPlease note that there may be exceptions to perks that are specifically listed on individual channels.\nIMPORTANT:\nThey must review the killer's notes to know what offerings and items to bring.\n",
 	"Tiers": [
@@ -289,16 +289,13 @@
 				"54",
 				"57",
 				"61",
-				"65",
 				"67",
-				"76",
 				"96",
 				"92",
 				"102",
-				"107",
 				"109",
-				"112",
 				"121",
+				"124",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -409,7 +406,9 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				8,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -424,10 +423,17 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -511,7 +517,12 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
 					]
 				},
 				"Med-Kit": {
@@ -704,14 +715,20 @@
 				115
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1027,19 +1044,15 @@
 				"39",
 				"44",
 				"50",
-				"53",
 				"54",
 				"57",
 				"61",
-				"65",
-				"76",
 				"96",
 				"92",
 				"102",
-				"107",
 				"109",
-				"112",
 				"121",
+				"124",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2394,7 +2407,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2424,14 +2437,20 @@
 				515
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
