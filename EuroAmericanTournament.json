@@ -1,6 +1,6 @@
 {
 	"Name": "EuroAmerican Tournament",
-	"Version": 1738564535,
+	"Version": 1738745312,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each perk is to be used 'ONE TIME ONLY'\nNote that each killer has its own balance, check the individual balance channels for each killer.\nThese prohibitions are in addition to the individual balance of each killer.\nPlease note that there may be exceptions to perks that are specifically listed on individual channels.\nIMPORTANT:\nThey must review the killer's notes to know what offerings and items to bring.\n",
 	"Tiers": [
@@ -967,7 +967,8 @@
 				"102",
 				"107",
 				"112",
-				"121"
+				"121",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2768,7 +2769,8 @@
 				"92",
 				"102",
 				"109",
-				"121"
+				"121",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2780,14 +2782,20 @@
 				597
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
